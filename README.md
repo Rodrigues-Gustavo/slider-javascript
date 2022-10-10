@@ -1,4 +1,4 @@
-# Landing Page - Coffee Code
+# Slider - JavaScript
 
 ### Projeto desenvolvido para portifólio pessoal.
 
@@ -8,20 +8,20 @@
 
 <h1 align="center">VISÃO GERAL</h1>
 
-<P align="center">Landing Page para simular um loja online de vendas de café</p>
+<P align="center">Slide feito utilizando a manipulação do DOM e mexendo com evento no javascript</p>
 <h1 align="center"> TESTAR</h1>
 
-<a href="https://rodrigues-gustavo.github.io/coffee-landing-page/">testar projeto</a>
+<a href="https://rodrigues-gustavo.github.io/slider-javascript/">testar projeto</a>
 
 <div align="center">
  
-![Tropical Beige Aesthetic Wallpaper Background](https://user-images.githubusercontent.com/102608021/194863097-595e6118-41cb-4716-830f-47c90470dc7f.png)
+![Plain Watercolor Letter Paper A4 Document](https://user-images.githubusercontent.com/102608021/194868041-317c506e-bf56-4057-b14e-526222cd92f1.png)
 
 </div>
 
 <h1 id="skills">Skills Utilizadas</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 
 <h1 id="contatos">Meus Contatos</h1>
