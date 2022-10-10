@@ -15,7 +15,7 @@
 
 <div align="center">
  
-![Plain Watercolor Letter Paper A4 Document](https://user-images.githubusercontent.com/102608021/194868041-317c506e-bf56-4057-b14e-526222cd92f1.png)
+![Plain Watercolor Letter Paper A4 Document](https://user-images.githubusercontent.com/102608021/194871514-95baeab8-b5eb-4103-b3aa-e36a382493d8.png)
 
 </div>
 
